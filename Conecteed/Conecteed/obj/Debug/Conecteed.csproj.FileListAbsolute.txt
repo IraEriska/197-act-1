@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\Conecteed\Conecteed\bin\Debug\Conecteed.exe.config
+C:\Users\asus\source\repos\Conecteed\Conecteed\bin\Debug\Conecteed.exe
+C:\Users\asus\source\repos\Conecteed\Conecteed\bin\Debug\Conecteed.pdb
+C:\Users\asus\source\repos\Conecteed\Conecteed\obj\Debug\Conecteed.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Conecteed\Conecteed\obj\Debug\Conecteed.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Conecteed\Conecteed\obj\Debug\Conecteed.exe
+C:\Users\asus\source\repos\Conecteed\Conecteed\obj\Debug\Conecteed.pdb
